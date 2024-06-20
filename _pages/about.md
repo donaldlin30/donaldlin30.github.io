@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My research interests lie at the intersection of machine learning and healthcare.
+My research interests lie at the intersection of machine learning and healthcare. In May 2024, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. I was advised by [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) and [Dr. Yan Zhuang](https://yanzhuang.name/). At Davidson, I have worked in reinforcement learning and decision-making and explored applications in nuclear physics and chess. For more details, please refer to the `projects` section.
 
-In May 2024, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. I was advised by [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) and [Dr. Yan Zhuang](https://yanzhuang.name/).
-
-Email: dxinlin [at] umich [dot] edu
+Please feel free to email me at `dxinlin [at] umich [dot] edu` for any questions, or just to say hi!
