@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: During my undergraduate years at Davidson, I work as a TA/grader for several math, CS, and physics-related courses. Here are some of the courses and roles I’ve taken on:
+
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Davidson College**
 
-Organize your courses by years, topics, or universities, however you like!
+- **PHY-125 General Physics I w/Calc** (34 students) - Fall 2022
+- **PHY-235 General Physics II w/Calc** (27 students) - Spring 2023
+- **MAT-235 Differential Equations** (28 students) - Fall 2023
+- **Math/CS General Tutor:** Counseled 20+ students with coding (Python, Java) and computational topics like Calculus, Linear Algebra, and Discrete Structures - Fall 2022 - Current
+- **Chinese Apprentice Teacher:** Mentored 20+ students through 100+ instructional hours, facilitated advanced topic lectures, and assisted students' independent research projects - Fall 2021 - Spring 2022
+
+I find great enjoyment in tutoring and am eager to continue this path in my future academic pursuits. I am particularly passionate about supporting students from minority backgrounds, drawing on my own experiences to provide guidance and encouragement.
