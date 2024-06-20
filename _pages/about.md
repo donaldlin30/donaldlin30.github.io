@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'> I am a Ph.D student in the [Computer Science & Engineering](https://cse.engin.umich.edu/) at the University of Michigan. All my academic works are under the name Xin Lin. However, I generally prefer to be called by Donald.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student in the Computer Science & Engineering at the University of Michigan. My research interests lie at the intersection of machine learning and healthcare.
+My research interests lie at the intersection of machine learning and healthcare.
 
 In May 2024, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. I was advised by [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) and [Dr. Yan Zhuang](https://yanzhuang.name/).
 
