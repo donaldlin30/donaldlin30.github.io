@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During my undergraduate years at Davidson, I work as a TA/grader for several math, CS, and physics-related courses. Here are some of the courses and roles I’ve taken on:
+description: During my undergraduate years at Davidson, I work as a TA/grader for several math, CS, and physics related courses. Here are some of the courses and roles I’ve taken on:
 nav: true
 nav_order: 6
 ---
