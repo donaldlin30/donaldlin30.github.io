@@ -1,7 +1,10 @@
 ---
 layout: page
+permalink: /photography/
 title: photography
-description: a project with a background image
+nav: true
+nav_order: 7
+description: a collection of my photography pieces 📷
 img: /assets/img/12.jpg
 ---
 
