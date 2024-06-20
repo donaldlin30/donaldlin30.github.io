@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://donl30.github.io/sitemap.xml
+Sitemap: https://donaldxinlin.github.io/sitemap.xml
