@@ -4,7 +4,7 @@ title: Understanding the Success of RL-based Chess Agents
 description: Undergraduate capstone inspired by AlphaZero
 img: assets/img/chess.jpg
 importance: 1
-category: work
+category: undergrad
 related_publications: false
 ---
 
