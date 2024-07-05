@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Main projects I've been involved for my undergrad and PhD
+description: Main projects I've been involved for my undergrad and PhD. Please feel free to reach out if you'd like to chat!
 nav: true
 nav_order: 3
 display_categories: [undergrad]
