@@ -12,10 +12,10 @@ img: /assets/img/12.jpg
     Chicago, IL
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photography/Chicago/Chicago1.jpg" title="Boulder1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photography/Chicago/Chicago2.jpg" title="Boulder2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
