@@ -9,7 +9,7 @@ img: /assets/img/12.jpg
 ---
 
 <div class="caption">
-    Hong Kong (in mono) <br> May 2024
+    Hong Kong, China
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -20,21 +20,25 @@ img: /assets/img/12.jpg
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photography/HK/hk3.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photography/HK/hk4.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row justify-content-sm-center">
     <div class="col-sm-11 mt-md-3">
-        {% include figure.liquid path="assets/img/photography/HK/hk5.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/photography/HK/hk3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Great Smoky Mountains, NC/TN <br> May 2024
+    Suzhou, China
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photography/Suzhou/suzhou1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photography/Suzhou/suzhou2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Great Smoky Mountains, NC/TN
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-4">
@@ -46,10 +50,10 @@ img: /assets/img/12.jpg
 </div>
 
 <div class="caption">
-    Chicago, IL <br> March 2024
+    Chicago, IL
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5">
+    <div class="col-sm-6">
         {% include figure.liquid path="assets/img/photography/Chicago/Chicago2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5">
@@ -64,7 +68,7 @@ img: /assets/img/12.jpg
 
 
 <div class="caption">
-    Boulder, CO <br> February 2024
+    Boulder, CO
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -76,7 +80,7 @@ img: /assets/img/12.jpg
 </div>
 
 <div class="caption">
-    Davidson, NC <br> August 2023
+    Davidson, NC
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -85,7 +89,7 @@ img: /assets/img/12.jpg
 </div>
 
 <div class="caption">
-    Saint Thomas, Virgin Islands <br> January 2023
+    Saint Thomas, U.S. Virgin Islands
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
