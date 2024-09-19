@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi! I am a Ph.D student in the <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan. All my academic works are under the name Xin Lin. However, I generally prefer to be called by Donald.
+subtitle: Hi! I am a first-year Ph.D student in the <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan.
 
 profile:
   align: right
