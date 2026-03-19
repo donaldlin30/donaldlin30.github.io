@@ -24,4 +24,4 @@ Before UMich, I graduated from [Davidson College](https://www.davidson.edu/) wit
 
 In my free time, I enjoy playing a variety of sports and capturing moments through photography. Check out some of my photography pieces [here](https://donaldlin30.github.io/photography/)!
 
-Please feel free to [email](mailto:dxinlin@umich.edu) me at `dxinlin [at] umich [dot] edu` for any questions, or just to say hi!
+Please feel free to contact me at `dxinlin [at] umich [dot] edu`.
