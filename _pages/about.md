@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a Ph.D student in the <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan under the [Michigan AI Lab](https://ai.engin.umich.edu/).
+subtitle: I am a Ph.D student in the <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am interested in developing AI methods for societal impact, with a focus on integrating heterogeneous data sources and addressing challenges in data-scarce settings.
+I am interested in developing AI methods for societal impact, with a focus on integrating heterogeneous data sources and addressing challenges in data-scarce settings. I am affiliated with the [Michigan AI Lab](https://ai.engin.umich.edu/).
 
 Before UMich, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. I was advised by Prof. [Raghu Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) and Prof. [Yan Zhuang](https://yanzhuang.name/). At Davidson, I have worked in reinforcement learning and decision-making, and explored applications in nuclear physics and chess. For more details, please refer to the [`projects`](https://donaldlin30.github.io/projects/) section.
 
