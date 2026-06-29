@@ -8,7 +8,7 @@ middle_name:
 last_name: Lin
 email: dxinlin@umich.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at the Univeristy of Michigan, interested in AI for healthcare.
+  Researcher at the University of Michigan, interested in AI for healthcare.
 footer_text: >
 keywords: machine-learning, ML, artificial-intelligence, AI, healthcare, causal-inference, umich, cs # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

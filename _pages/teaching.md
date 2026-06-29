@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During my undergraduate years at Davidson, I worked as a TA/grader for several math, CS, and physics-related courses. Here are some of the courses and roles I’ve taken on.
+description: I have served as a Graduate Student Instructor at the University of Michigan, and during my undergraduate years at Davidson I worked as a TA/grader for several math, CS, and physics-related courses. Here are some of the courses and roles I’ve taken on.
 nav: true
 nav_order: 6
 ---
+
+**University of Michigan**
+
+- **Graduate Student Instructor, EECS 445 Introduction to Machine Learning** - Led discussions and supported students on core ML topics including supervised learning, neural networks, optimization, and model evaluation - Spring 2026
 
 **Davidson College**
 
