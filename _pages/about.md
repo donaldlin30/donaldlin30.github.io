@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a researcher in <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan.
+subtitle: I am a researcher in <a href='https://cse.engin.umich.edu/'>Computer Science & Engineering</a> at the University of Michigan, affiliated with <a href='https://www.michiganmedicine.org/'>Michigan Medicine</a> and the <a href='https://ai.engin.umich.edu/'>Michigan AI Lab</a>.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I work on machine learning for healthcare, building models that turn messy clinical signals — such as continuous glucose monitoring time-series — into reliable, deployable predictions, with an emphasis on data-scarce settings where per-patient data is limited. More broadly, I'm interested in AI methods for societal impact and integrating heterogeneous data sources. I am affiliated with the [Michigan AI Lab](https://ai.engin.umich.edu/). Before UMich, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. At Davidson, I have worked in reinforcement learning and decision-making, and explored applications in nuclear physics and chess. 
+I work on machine learning for healthcare, building models that turn messy clinical signals — such as continuous glucose monitoring time-series — into reliable, deployable predictions, with an emphasis on data-scarce settings where per-patient data is limited. More broadly, I'm interested in AI methods for societal impact and integrating heterogeneous data sources. Before UMich, I graduated from [Davidson College](https://www.davidson.edu/) with a Bachelor of Science in Computer Science and Mathematics. At Davidson, I have worked in reinforcement learning and decision-making, and explored applications in nuclear physics and chess. 
 
 For more details, please refer to the [`projects`](https://donaldlin30.github.io/projects/) section.
 
